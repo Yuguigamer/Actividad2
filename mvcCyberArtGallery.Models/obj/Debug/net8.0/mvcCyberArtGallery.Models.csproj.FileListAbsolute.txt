@@ -1,0 +1,11 @@
+C:\ProyectosWebII\mvcCyberArtGallery\mvcCyberArtGallery.Models\bin\Debug\net8.0\mvcCyberArtGallery.Models.deps.json
+C:\ProyectosWebII\mvcCyberArtGallery\mvcCyberArtGallery.Models\bin\Debug\net8.0\mvcCyberArtGallery.Models.dll
+C:\ProyectosWebII\mvcCyberArtGallery\mvcCyberArtGallery.Models\bin\Debug\net8.0\mvcCyberArtGallery.Models.pdb
+C:\ProyectosWebII\mvcCyberArtGallery\mvcCyberArtGallery.Models\obj\Debug\net8.0\mvcCyberArtGallery.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosWebII\mvcCyberArtGallery\mvcCyberArtGallery.Models\obj\Debug\net8.0\mvcCyberArtGallery.Models.AssemblyInfoInputs.cache
+C:\ProyectosWebII\mvcCyberArtGallery\mvcCyberArtGallery.Models\obj\Debug\net8.0\mvcCyberArtGallery.Models.AssemblyInfo.cs
+C:\ProyectosWebII\mvcCyberArtGallery\mvcCyberArtGallery.Models\obj\Debug\net8.0\mvcCyberArtGallery.Models.csproj.CoreCompileInputs.cache
+C:\ProyectosWebII\mvcCyberArtGallery\mvcCyberArtGallery.Models\obj\Debug\net8.0\mvcCyberArtGallery.Models.dll
+C:\ProyectosWebII\mvcCyberArtGallery\mvcCyberArtGallery.Models\obj\Debug\net8.0\refint\mvcCyberArtGallery.Models.dll
+C:\ProyectosWebII\mvcCyberArtGallery\mvcCyberArtGallery.Models\obj\Debug\net8.0\mvcCyberArtGallery.Models.pdb
+C:\ProyectosWebII\mvcCyberArtGallery\mvcCyberArtGallery.Models\obj\Debug\net8.0\ref\mvcCyberArtGallery.Models.dll

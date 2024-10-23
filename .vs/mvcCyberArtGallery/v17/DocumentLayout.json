@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProyectosWebII\\mvcCyberArtGallery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{610BBBD1-03AA-4358-AA57-84FC0694B5E3}|mvcCyberArtGallery\\mvcCyberArtGallery.csproj|c:\\proyectoswebii\\mvccyberartgallery\\mvccyberartgallery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610BBBD1-03AA-4358-AA57-84FC0694B5E3}|mvcCyberArtGallery\\mvcCyberArtGallery.csproj|solutionrelative:mvccyberartgallery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{610BBBD1-03AA-4358-AA57-84FC0694B5E3}|mvcCyberArtGallery\\mvcCyberArtGallery.csproj|c:\\proyectoswebii\\mvccyberartgallery\\mvccyberartgallery\\areas\\admin\\controllers\\artistascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610BBBD1-03AA-4358-AA57-84FC0694B5E3}|mvcCyberArtGallery\\mvcCyberArtGallery.csproj|solutionrelative:mvccyberartgallery\\areas\\admin\\controllers\\artistascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53165ED9-52DC-4112-8A06-DD55F19EDFD7}|mvcCyberArtGallery.Models\\mvcCyberArtGallery.Models.csproj|c:\\proyectoswebii\\mvccyberartgallery\\mvccyberartgallery.models\\obradearte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53165ED9-52DC-4112-8A06-DD55F19EDFD7}|mvcCyberArtGallery.Models\\mvcCyberArtGallery.Models.csproj|solutionrelative:mvccyberartgallery.models\\obradearte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 80,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProyectosWebII\\mvcCyberArtGallery\\mvcCyberArtGallery\\Program.cs",
+              "RelativeDocumentMoniker": "mvcCyberArtGallery\\Program.cs",
+              "ToolTip": "C:\\ProyectosWebII\\mvcCyberArtGallery\\mvcCyberArtGallery\\Program.cs",
+              "RelativeToolTip": "mvcCyberArtGallery\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:42:08.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArtistasController.cs",
+              "DocumentMoniker": "C:\\ProyectosWebII\\mvcCyberArtGallery\\mvcCyberArtGallery\\Areas\\Admin\\Controllers\\ArtistasController.cs",
+              "RelativeDocumentMoniker": "mvcCyberArtGallery\\Areas\\Admin\\Controllers\\ArtistasController.cs",
+              "ToolTip": "C:\\ProyectosWebII\\mvcCyberArtGallery\\mvcCyberArtGallery\\Areas\\Admin\\Controllers\\ArtistasController.cs",
+              "RelativeToolTip": "mvcCyberArtGallery\\Areas\\Admin\\Controllers\\ArtistasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:34:13.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ObraDeArte.cs",
+              "DocumentMoniker": "C:\\ProyectosWebII\\mvcCyberArtGallery\\mvcCyberArtGallery.Models\\ObraDeArte.cs",
+              "RelativeDocumentMoniker": "mvcCyberArtGallery.Models\\ObraDeArte.cs",
+              "ToolTip": "C:\\ProyectosWebII\\mvcCyberArtGallery\\mvcCyberArtGallery.Models\\ObraDeArte.cs",
+              "RelativeToolTip": "mvcCyberArtGallery.Models\\ObraDeArte.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:24:38.844Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

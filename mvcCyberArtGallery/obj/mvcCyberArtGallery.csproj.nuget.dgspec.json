@@ -1,0 +1,320 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\ProyectosWebII\\mvcCyberArtGallery\\mvcCyberArtGallery\\mvcCyberArtGallery.csproj": {}
+  },
+  "projects": {
+    "C:\\ProyectosWebII\\mvcCyberArtGallery\\mvcCyberArtGallery.AccesoDatos\\mvcCyberArtGallery.AccesoDatos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ProyectosWebII\\mvcCyberArtGallery\\mvcCyberArtGallery.AccesoDatos\\mvcCyberArtGallery.AccesoDatos.csproj",
+        "projectName": "mvcCyberArtGallery.AccesoDatos",
+        "projectPath": "C:\\ProyectosWebII\\mvcCyberArtGallery\\mvcCyberArtGallery.AccesoDatos\\mvcCyberArtGallery.AccesoDatos.csproj",
+        "packagesPath": "C:\\Users\\ElRompeNucas3000\\.nuget\\packages\\",
+        "outputPath": "C:\\ProyectosWebII\\mvcCyberArtGallery\\mvcCyberArtGallery.AccesoDatos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ElRompeNucas3000\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\ProyectosWebII\\mvcCyberArtGallery\\mvcCyberArtGallery.Models\\mvcCyberArtGallery.Models.csproj": {
+                "projectPath": "C:\\ProyectosWebII\\mvcCyberArtGallery\\mvcCyberArtGallery.Models\\mvcCyberArtGallery.Models.csproj"
+              },
+              "C:\\ProyectosWebII\\mvcCyberArtGallery\\mvcCyberArtGallery.Utiles\\mvcCyberArtGallery.Utiles.csproj": {
+                "projectPath": "C:\\ProyectosWebII\\mvcCyberArtGallery\\mvcCyberArtGallery.Utiles\\mvcCyberArtGallery.Utiles.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ProyectosWebII\\mvcCyberArtGallery\\mvcCyberArtGallery.Models\\mvcCyberArtGallery.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ProyectosWebII\\mvcCyberArtGallery\\mvcCyberArtGallery.Models\\mvcCyberArtGallery.Models.csproj",
+        "projectName": "mvcCyberArtGallery.Models",
+        "projectPath": "C:\\ProyectosWebII\\mvcCyberArtGallery\\mvcCyberArtGallery.Models\\mvcCyberArtGallery.Models.csproj",
+        "packagesPath": "C:\\Users\\ElRompeNucas3000\\.nuget\\packages\\",
+        "outputPath": "C:\\ProyectosWebII\\mvcCyberArtGallery\\mvcCyberArtGallery.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ElRompeNucas3000\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ProyectosWebII\\mvcCyberArtGallery\\mvcCyberArtGallery.Utiles\\mvcCyberArtGallery.Utiles.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ProyectosWebII\\mvcCyberArtGallery\\mvcCyberArtGallery.Utiles\\mvcCyberArtGallery.Utiles.csproj",
+        "projectName": "mvcCyberArtGallery.Utiles",
+        "projectPath": "C:\\ProyectosWebII\\mvcCyberArtGallery\\mvcCyberArtGallery.Utiles\\mvcCyberArtGallery.Utiles.csproj",
+        "packagesPath": "C:\\Users\\ElRompeNucas3000\\.nuget\\packages\\",
+        "outputPath": "C:\\ProyectosWebII\\mvcCyberArtGallery\\mvcCyberArtGallery.Utiles\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ElRompeNucas3000\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ProyectosWebII\\mvcCyberArtGallery\\mvcCyberArtGallery\\mvcCyberArtGallery.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ProyectosWebII\\mvcCyberArtGallery\\mvcCyberArtGallery\\mvcCyberArtGallery.csproj",
+        "projectName": "mvcCyberArtGallery",
+        "projectPath": "C:\\ProyectosWebII\\mvcCyberArtGallery\\mvcCyberArtGallery\\mvcCyberArtGallery.csproj",
+        "packagesPath": "C:\\Users\\ElRompeNucas3000\\.nuget\\packages\\",
+        "outputPath": "C:\\ProyectosWebII\\mvcCyberArtGallery\\mvcCyberArtGallery\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ElRompeNucas3000\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\ProyectosWebII\\mvcCyberArtGallery\\mvcCyberArtGallery.AccesoDatos\\mvcCyberArtGallery.AccesoDatos.csproj": {
+                "projectPath": "C:\\ProyectosWebII\\mvcCyberArtGallery\\mvcCyberArtGallery.AccesoDatos\\mvcCyberArtGallery.AccesoDatos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
